@@ -1,0 +1,14 @@
+D:\gitpractise\sampleapi\bin\Debug\netcoreapp2.2\sampleapi.deps.json
+D:\gitpractise\sampleapi\bin\Debug\netcoreapp2.2\sampleapi.runtimeconfig.json
+D:\gitpractise\sampleapi\bin\Debug\netcoreapp2.2\sampleapi.runtimeconfig.dev.json
+D:\gitpractise\sampleapi\bin\Debug\netcoreapp2.2\sampleapi.dll
+D:\gitpractise\sampleapi\bin\Debug\netcoreapp2.2\sampleapi.pdb
+D:\gitpractise\sampleapi\obj\Debug\netcoreapp2.2\sampleapi.csprojAssemblyReference.cache
+D:\gitpractise\sampleapi\obj\Debug\netcoreapp2.2\sampleapi.csproj.CoreCompileInputs.cache
+D:\gitpractise\sampleapi\obj\Debug\netcoreapp2.2\sampleapi.RazorAssemblyInfo.cache
+D:\gitpractise\sampleapi\obj\Debug\netcoreapp2.2\sampleapi.RazorAssemblyInfo.cs
+D:\gitpractise\sampleapi\obj\Debug\netcoreapp2.2\sampleapi.AssemblyInfoInputs.cache
+D:\gitpractise\sampleapi\obj\Debug\netcoreapp2.2\sampleapi.AssemblyInfo.cs
+D:\gitpractise\sampleapi\obj\Debug\netcoreapp2.2\sampleapi.RazorTargetAssemblyInfo.cache
+D:\gitpractise\sampleapi\obj\Debug\netcoreapp2.2\sampleapi.dll
+D:\gitpractise\sampleapi\obj\Debug\netcoreapp2.2\sampleapi.pdb
